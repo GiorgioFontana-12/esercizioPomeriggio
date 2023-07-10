@@ -21,7 +21,13 @@
 
 <div class="content">
     <div class="container">
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora temporibus, dicta nemo aliquam totam nisi deserunt soluta quas voluptatum ab beatae praesentium necessitatibus minus, facilis illum rerum officiis accusamus dolores!</p>
+        <div class="row">
+            <div class="col-12">
+                <p class="border p-3">
+                    ciao a tutti!!
+                </p>
+            </div>
+        </div>
     </div>
 </div>
 @endsection
